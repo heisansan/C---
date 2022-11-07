@@ -145,7 +145,7 @@ struct people  结构 联系人
 	struct people *next;   链表 
 };
 
-# define LEN sizeof(struct people)  宏定义LEN为结构 联系人的大小，方便后面读写文件
+#define LEN sizeof(struct people)  宏定义LEN为结构 联系人的大小，方便后面读写文件
 typedef struct people PEO;  自定义类型—结构类型名的简便写法
 char filename[30];  全局变量，用来保存要打开的文件名字
 
