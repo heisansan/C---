@@ -710,8 +710,8 @@ int Neaten()
  ``` 
 
 # 参考文献
-[1]	何钦铭, 颜晖, 等. C语言程序设计[M]. 3版. 北京：高等教育出版社, 2015: 253-319.
-[2]	odaynot. C语言学生信息管理系统（动态链表版）[EB/OL].https://blog.csdn.net/odaynot/article/details/7942497?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase, 2012–09–04/2020–07–01.
-[3]	clusterally. C语言通讯录（利用链表实现）[EB/OL].https://blog.csdn.net/clusterally/article/details/76670696?ops_request_misc=&request_id=&biz_id=102&utm_term=c%E8%AF%AD%E8%A8%80%20%E5%8D%95%E9%93%BE%E8%A1%A8%20%E9%80%9A%E8%AE%AF%E5%BD%95&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-76670696, 2017–08–04/2020–06–30.
-[4]	Mr. xdc. 用c语言制作简易的个人通讯录管理系统[EB/OL].https://blog.csdn.net/qq_40632256/article/details/83928571, 2018–11–10/2020–06–30.
-[5]	查心妍. C语言用链表实现通讯录并存入文件[EB/OL].https://blog.csdn.net/qq_41998576/article/details/81672751, 2018–08–14/2020–06–30.
+[1]	何钦铭, 颜晖, 等. C语言程序设计[M]. 3版. 北京：高等教育出版社, 2015: 253-319.  
+[2]	odaynot. C语言学生信息管理系统（动态链表版）[EB/OL].https://blog.csdn.net/odaynot/article/details/7942497?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase, 2012–09–04/2020–07–01.  
+[3]	clusterally. C语言通讯录（利用链表实现）[EB/OL].https://blog.csdn.net/clusterally/article/details/76670696?ops_request_misc=&request_id=&biz_id=102&utm_term=c%E8%AF%AD%E8%A8%80%20%E5%8D%95%E9%93%BE%E8%A1%A8%20%E9%80%9A%E8%AE%AF%E5%BD%95&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-76670696, 2017–08–04/2020–06–30.  
+[4]	Mr. xdc. 用c语言制作简易的个人通讯录管理系统[EB/OL].https://blog.csdn.net/qq_40632256/article/details/83928571, 2018–11–10/2020–06–30.  
+[5]	查心妍. C语言用链表实现通讯录并存入文件[EB/OL].https://blog.csdn.net/qq_41998576/article/details/81672751, 2018–08–14/2020–06–30.  
