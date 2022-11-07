@@ -487,7 +487,7 @@ error!
 ◎请重新输入编号！
 格式：表格的顶线、底线采用粗线1磅，栏目线、辅助线采用细线0.5磅。表头用黑体、五号、居中，表身内容汉字用宋体、五号，数字内容用Times New Roman字体、五号。
 
-第3部分  实训总结
+# 第3部分  实训总结
 1. 个人总结
 学习编程知识的时候，每个大知识点都是按课时一个接一个学习的，练习所用的编程题也大多是对一个一个知识点针对性地出题，所以对各知识点的综合运用并不那么熟练。通过这次实训，加深了我对每个知识点的理解，更加强了我对所有知识点的综合运用能力。
 同时，实训的过程中，编写代码时出现了一些问题，比如说一开始的程序由于考虑不周，在输入非法数据时会直接退出程序或者储存乱码数据等等非预期的结果，后来就去补充了输入非法数据时重复调用函数的算法等等。虽说不出问题是最好的结果，但正因为出现了问题我才能意识到自己思维中的误区，才能找到更好的解决办法，才能提高自己的思维逻辑能力。
@@ -496,7 +496,7 @@ error!
 2. 结束语
 最后，再此感谢我C语言的教师兼本次实训的指导老师的李革老师！教授给我们相关知识，解答我的问题，非常感谢！
 
-附录A  程序清单
+# 附录A  程序清单
 头文件people_head.h
 /*
 ◎班级：19科技3班 
@@ -1166,7 +1166,7 @@ int Neaten()
 }
  
 
-附录B  用户使用说明书
+# 附录B  用户使用说明书
 内容：包括硬件和软件要求、使用方法、注意事项等内容。
 （1）硬件要求
 exe程序使用要求平台：PC.
@@ -1183,7 +1183,7 @@ exe程序使用要求平台：PC.
 也请务必在往后使用过程中出现的各种选项中正确输入选项对应数字！
  
 
-参考文献
+# 参考文献
 [1]	何钦铭, 颜晖, 等. C语言程序设计[M]. 3版. 北京：高等教育出版社, 2015: 253-319.
 [2]	odaynot. C语言学生信息管理系统（动态链表版）[EB/OL].https://blog.csdn.net/odaynot/article/details/7942497?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase, 2012–09–04/2020–07–01.
 [3]	clusterally. C语言通讯录（利用链表实现）[EB/OL].https://blog.csdn.net/clusterally/article/details/76670696?ops_request_misc=&request_id=&biz_id=102&utm_term=c%E8%AF%AD%E8%A8%80%20%E5%8D%95%E9%93%BE%E8%A1%A8%20%E9%80%9A%E8%AE%AF%E5%BD%95&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-76670696, 2017–08–04/2020–06–30.
